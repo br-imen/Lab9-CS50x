@@ -1,6 +1,7 @@
 # Lab9-CS50x
 
 ## Description:
+- Birthdays:
 Create a web application to keep track of friends’ birthdays.
 
 ## Details : 
@@ -31,3 +32,7 @@ Optionally, you may also:
 
 - Add the ability to delete and/or edit birthday entries.
 - Add any additional features of your choosing!
+
+
+- Hello flask : 
+I practice on flask 
